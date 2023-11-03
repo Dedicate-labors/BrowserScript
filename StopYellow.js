@@ -28,6 +28,7 @@
 
 // =================== 重定向到其他界面 =====================
     // 想跳转的url
+    // var redirectUrl = "https://jandan.net/top";
     var redirectUrl = "https://www.autopiano.cn/";
     // 重定向到纯青色页面
     window.location.replace(redirectUrl);
